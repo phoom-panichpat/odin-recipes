@@ -1,0 +1,40 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #F8C3CD;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+}
+
+ul {
+    line-height: 10;
+    background-color: #FEDFE1;
+    border-width: 10px;
+    border-color: aquamarine;
+    border-style:groove;
+    border-radius: 12px;
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
+.vongole{
+    background-color: lightblue;
+}
+
+.food{
+    background-color: green;
+}
+
+.food.taco{
+    font-size: 36px;
+}
+
+.odin,
+.ramen{
+    background-color: azure;
+}
